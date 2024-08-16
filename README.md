@@ -32,7 +32,7 @@ The project directory contains the following files and folders:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AnkurMangroliya/Loan-Approval-Prediction.git
+git clone https://github.com/smitmaniya/Loan_Eligibility.git
 cd Loan-Approval-Prediction
 ```
 
